@@ -1,4 +1,4 @@
-# Hyperblog 💚
+# Hyperblog 💚🤓
 Blog en la practica de Git y GitHub 
 >Curso Tomado en Platzi orientado por Freddy Vega.
 
